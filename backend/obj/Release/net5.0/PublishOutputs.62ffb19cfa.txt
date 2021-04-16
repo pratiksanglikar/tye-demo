@@ -1,0 +1,10 @@
+/var/folders/qf/jwt_zq550p91ql45pqt4nhzh0000gn/T/jrbdz4kv.yx1/appsettings.Development.json
+/var/folders/qf/jwt_zq550p91ql45pqt4nhzh0000gn/T/jrbdz4kv.yx1/appsettings.json
+/var/folders/qf/jwt_zq550p91ql45pqt4nhzh0000gn/T/jrbdz4kv.yx1/backend.dll
+/var/folders/qf/jwt_zq550p91ql45pqt4nhzh0000gn/T/jrbdz4kv.yx1/backend.deps.json
+/var/folders/qf/jwt_zq550p91ql45pqt4nhzh0000gn/T/jrbdz4kv.yx1/backend.runtimeconfig.json
+/var/folders/qf/jwt_zq550p91ql45pqt4nhzh0000gn/T/jrbdz4kv.yx1/backend.pdb
+/var/folders/qf/jwt_zq550p91ql45pqt4nhzh0000gn/T/jrbdz4kv.yx1/Microsoft.OpenApi.dll
+/var/folders/qf/jwt_zq550p91ql45pqt4nhzh0000gn/T/jrbdz4kv.yx1/Swashbuckle.AspNetCore.Swagger.dll
+/var/folders/qf/jwt_zq550p91ql45pqt4nhzh0000gn/T/jrbdz4kv.yx1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/var/folders/qf/jwt_zq550p91ql45pqt4nhzh0000gn/T/jrbdz4kv.yx1/Swashbuckle.AspNetCore.SwaggerUI.dll

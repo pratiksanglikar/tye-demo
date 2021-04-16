@@ -1,0 +1,11 @@
+[frontend_74ea49cd-b]:dotnet exec "/Users/prsangli/workspace/microservice/frontend/bin/Debug/net5.0/frontend.dll"
+[frontend_74ea49cd-b]: info: Microsoft.Hosting.Lifetime[0]
+[frontend_74ea49cd-b]:       Now listening on: http://localhost:55475
+[frontend_74ea49cd-b]: info: Microsoft.Hosting.Lifetime[0]
+[frontend_74ea49cd-b]:       Now listening on: https://localhost:55476
+[frontend_74ea49cd-b]: info: Microsoft.Hosting.Lifetime[0]
+[frontend_74ea49cd-b]:       Application started. Press Ctrl+C to shut down.
+[frontend_74ea49cd-b]: info: Microsoft.Hosting.Lifetime[0]
+[frontend_74ea49cd-b]:       Hosting environment: Development
+[frontend_74ea49cd-b]: info: Microsoft.Hosting.Lifetime[0]
+[frontend_74ea49cd-b]:       Content root path: /Users/prsangli/workspace/microservice/frontend

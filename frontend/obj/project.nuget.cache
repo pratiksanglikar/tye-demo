@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vZA8Y4Glt1cpwD+Xz0YiPOjAx8EVubGQ8QVt2zDdQ0TETJ/CmDptGmkn+ATBTHgHstSEhlZ248Y78MbkE9uRxA==",
+  "success": true,
+  "projectFilePath": "/Users/prsangli/workspace/microservice/frontend/frontend.csproj",
+  "expectedPackageFiles": [
+    "/Users/prsangli/.nuget/packages/microsoft.extensions.configuration/2.1.1/microsoft.extensions.configuration.2.1.1.nupkg.sha512",
+    "/Users/prsangli/.nuget/packages/microsoft.extensions.configuration.abstractions/2.1.1/microsoft.extensions.configuration.abstractions.2.1.1.nupkg.sha512",
+    "/Users/prsangli/.nuget/packages/microsoft.extensions.primitives/2.1.1/microsoft.extensions.primitives.2.1.1.nupkg.sha512",
+    "/Users/prsangli/.nuget/packages/microsoft.tye.extensions.configuration/0.4.0-alpha.20371.1/microsoft.tye.extensions.configuration.0.4.0-alpha.20371.1.nupkg.sha512",
+    "/Users/prsangli/.nuget/packages/system.memory/4.5.1/system.memory.4.5.1.nupkg.sha512",
+    "/Users/prsangli/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.1/system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
