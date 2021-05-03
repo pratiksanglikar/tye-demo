@@ -5,17 +5,8 @@
 #    https://aka.ms/AA7q20u
 #
 name: microservice
-registry: pratiksanglikar
 services:
 - name: frontend
   project: frontend/frontend.csproj
 - name: backend
   project: backend/backend.csproj
-- name: redis
-  image: redis
-  bindings:
-  - port: 6379
-    connectionString: "${host}:${port}"   
-- name: redis-cli
-  image: redis
-  args: "redis-cli -h redis MONITOR"

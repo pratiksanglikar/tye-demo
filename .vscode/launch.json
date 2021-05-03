@@ -32,7 +32,9 @@
             "name": "Debug with Tye",
             "preLaunchTask": "tye-run",
             "request": "launch",
-            "type": "tye"
+            "type": "tye",
+            "services": ["frontend","backend"],
+            "watch": true
         }
     ]
 }

@@ -22,7 +22,7 @@ namespace frontend.Pages
 
         public async Task OnGet([FromServices]WeatherClient client)
         {
-            Name = "Tye";
+            Name = "Tye 5";
             Forecasts = await client.GetWeatherAsync();
 
             _logger.LogDebug("Index.html visited!");

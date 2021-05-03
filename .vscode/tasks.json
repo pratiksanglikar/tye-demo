@@ -41,7 +41,8 @@
         {
             "applicationName": "microservice",
             "label": "tye-run",
-            "type": "tye-run"
+            "type": "tye-run",
+            "watch": true
         }
     ]
 }
