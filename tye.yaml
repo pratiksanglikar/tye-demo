@@ -1,5 +1,5 @@
 name: microservice
-registry: <registry_name>
+registry: microservice-example
 services:
 - name: backend
   project: backend/backend.csproj
